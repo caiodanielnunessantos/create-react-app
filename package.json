@@ -13,7 +13,7 @@
   "license": "ISC",
   "files": [
     "index.js"
-  ]
+  ],
   "dependencies": {
   }
 }
