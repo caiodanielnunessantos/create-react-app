@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const exec_start_time = new Date().getSeconds();
 const { writeFileSync } = require('fs');
 const { execSync } = require('child_process');

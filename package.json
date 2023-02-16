@@ -1,16 +1,19 @@
 {
   "name": "@caiodanielnunessantos/create-react-app",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": "https://github.com/caiodanielnunessantos/create-react-app",
   "description": "Heavily opinionated no-dependency self-contained mod of create-react-app that uses esbuild instead of webpack to make it (way) faster",
   "main": "index.js",
-  "bin": "index.js",
+  "bin": "./index.js",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [],
   "author": "Caio Daniel Nunes Santos",
   "license": "ISC",
+  "files": [
+    "index.js"
+  ]
   "dependencies": {
   }
 }
